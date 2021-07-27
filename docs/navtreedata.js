@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Soldered BMP180 Arduino Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+    [ "BMP180 Arduino library", "index.html", null ],
     [ "License Information", "md_src_libs__b_m_p180__breakout__arduino__library__l_i_c_e_n_s_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
