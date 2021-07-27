@@ -24,8 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
+  [ "Soldered BMP180 Arduino Library", "index.html", [
     [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+    [ "License Information", "md_src_libs__b_m_p180__breakout__arduino__library__l_i_c_e_n_s_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -44,7 +45,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
+"_b_m_p180-_s_o_l_d_e_r_e_d_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
