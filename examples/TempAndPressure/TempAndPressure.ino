@@ -2,7 +2,7 @@
  **************************************************
  *
  * @file        TempAndPressure.ino
- * @brief       This example shows how to use BMP180 sensor to measure Temperature and pressure, then calculate apsolute pressure or altitude
+ * @brief       This example shows how to use BMP180 sensor to measure Temperature and pressure, then calculate apsolute pressure or altitude.
  *
  *
  *
