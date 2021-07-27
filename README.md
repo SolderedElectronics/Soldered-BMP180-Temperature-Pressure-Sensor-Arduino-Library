@@ -15,13 +15,13 @@ BMP 180 Sensor [easyC ecosystem](https://www.soldered.com/easyC).
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in NAZIV PROIZVODA hardware repository
+You can find hardware design for this board in BMP180 hardware repository
 
 ### Documentation
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-Generic-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the BMP180 Sensor
 - Installing an Arduino library
 
 ### About Soldered
