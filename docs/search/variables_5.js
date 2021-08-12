@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['err_105',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['vb1_91',['VB1',['../class_s_f_e___b_m_p180.html#aab6caa5b62acfc8b7e2dff8d644efa24',1,'SFE_BMP180']]],
+  ['vb2_92',['VB2',['../class_s_f_e___b_m_p180.html#a0b3ee273a401f1782e6c8d137431320d',1,'SFE_BMP180']]]
 ];

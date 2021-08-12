@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['easyc_76',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['geterror_61',['getError',['../class_s_f_e___b_m_p180.html#a9a25500b6a70adb26d1b38cc7a2b6d18',1,'SFE_BMP180']]],
+  ['getpressure_62',['getPressure',['../class_s_f_e___b_m_p180.html#a44140953b38724509b2b39d7182b616d',1,'SFE_BMP180']]],
+  ['gettemperature_63',['getTemperature',['../class_s_f_e___b_m_p180.html#a5b35b94aceaee795d828b30fefc35a59',1,'SFE_BMP180']]]
 ];

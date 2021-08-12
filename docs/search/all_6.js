@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['geterror_22',['getError',['../class_s_f_e___b_m_p180.html#a9a25500b6a70adb26d1b38cc7a2b6d18',1,'SFE_BMP180']]],
-  ['getpressure_23',['getPressure',['../class_s_f_e___b_m_p180.html#a44140953b38724509b2b39d7182b616d',1,'SFE_BMP180']]],
-  ['gettemperature_24',['getTemperature',['../class_s_f_e___b_m_p180.html#a5b35b94aceaee795d828b30fefc35a59',1,'SFE_BMP180']]]
+  ['license_20information_19',['License Information',['../md_src_libs__b_m_p180__breakout__arduino__library__l_i_c_e_n_s_e.html',1,'']]],
+  ['license_2emd_20',['LICENSE.md',['../_l_i_c_e_n_s_e_8md.html',1,'']]]
 ];

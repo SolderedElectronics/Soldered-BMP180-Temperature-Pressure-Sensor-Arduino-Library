@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['initializenative_80',['initializeNative',['../class_bmp__180.html#a2544a722f07af933a41c9e20e338bfff',1,'Bmp_180::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['readbytes_65',['readBytes',['../class_s_f_e___b_m_p180.html#acefe7e02b8a54397e3fa10762100a4ea',1,'SFE_BMP180']]],
+  ['readint_66',['readInt',['../class_s_f_e___b_m_p180.html#ab00973ccad1a37f1290ade14d103ccec',1,'SFE_BMP180']]],
+  ['readuint_67',['readUInt',['../class_s_f_e___b_m_p180.html#a568bb4c1badf7021c839e13d2bb6a799',1,'SFE_BMP180']]]
 ];
