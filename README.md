@@ -5,7 +5,7 @@
 
 | ![BMP 180 Sensor](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [BMP 180 Sensor](https://www.solde.red/333060)                                                            |
+| [BMP 180 Sensor](https://www.solde.red/SKU)                                                            |
 
 BMP 180 Sensor [easyC ecosystem](https://www.soldered.com/easyC). 
 
@@ -19,7 +19,7 @@ You can find hardware design for this board in BMP180 hardware repository
 
 ### Documentation
 
-Access Arduino library documentation [here](https://e-radionicacom.github.io//Soldered-BMP180-Temperature-Pressure-Sensor-Arduino-Library/).
+Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-Generic-Arduino-Library/).
 
 - Tutorial for using the BMP180 Sensor
 - Installing an Arduino library
@@ -37,7 +37,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [BMP180_Breakout Arduino Library](https://github.com/sparkfun/BMP180_Breakout_Arduino_Library) library. Thank you, Sparkfun!
+This library is possible thanks to original [BMP180_Breakout Arduino Library](https://github.com/sparkfun/BMP180_Breakout_Arduino_Library) library. Thank you, Sparkfun!. 
 
 
 ### Open-source license
