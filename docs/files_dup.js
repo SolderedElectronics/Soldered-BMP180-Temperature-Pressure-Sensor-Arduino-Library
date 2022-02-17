@@ -1,11 +1,4 @@
 var files_dup =
 [
-    [ "BMP180-SOLDERED.cpp", "_b_m_p180-_s_o_l_d_e_r_e_d_8cpp.html", null ],
-    [ "BMP180-SOLDERED.h", "_b_m_p180-_s_o_l_d_e_r_e_d_8h.html", [
-      [ "Bmp_180", "class_bmp__180.html", "class_bmp__180" ]
-    ] ],
-    [ "SFE_BMP180.cpp", "_s_f_e___b_m_p180_8cpp.html", null ],
-    [ "SFE_BMP180.h", "_s_f_e___b_m_p180_8h.html", [
-      [ "SFE_BMP180", "class_s_f_e___b_m_p180.html", "class_s_f_e___b_m_p180" ]
-    ] ]
+    [ "src", "dir_68267d1309a1af8e8297ef4c3efbcdba.html", "dir_68267d1309a1af8e8297ef4c3efbcdba" ]
 ];
