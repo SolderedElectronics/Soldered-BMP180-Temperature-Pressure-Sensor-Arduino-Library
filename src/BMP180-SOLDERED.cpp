@@ -18,4 +18,5 @@
 void Bmp_180::initializeNative()
 {
     pinMode(pin, INPUT);
+    
 }
