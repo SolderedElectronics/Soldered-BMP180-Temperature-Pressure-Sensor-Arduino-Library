@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['license_20information_0',['License Information',['../md_src_libs__b_m_p180__breakout__arduino__library__l_i_c_e_n_s_e.html',1,'']]]
+  ['pressure_20_26_20temperature_20sensor_20bmp180_20breakout_20arduino_20library_0',['Pressure &amp; temperature sensor BMP180 breakout Arduino library',['../index.html',1,'']]]
 ];
