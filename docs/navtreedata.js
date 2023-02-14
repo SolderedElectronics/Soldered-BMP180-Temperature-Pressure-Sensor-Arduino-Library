@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "Soldered BMP180 Arduino Library", "index.html", [
-    [ "Pressure & temperature sensor BMP180 breakout Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "Pressure & temperature sensor BMP180 breakout Arduino library", "index.html", "index" ],
     [ "License Information", "md_src_libs__b_m_p180__breakout__arduino__library__l_i_c_e_n_s_e.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
